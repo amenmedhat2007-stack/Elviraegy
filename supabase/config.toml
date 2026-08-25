@@ -1,0 +1,4 @@
+project_id = "elvira"
+
+[functions.create-order]
+verify_jwt = false
